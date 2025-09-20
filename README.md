@@ -6,3 +6,8 @@ Shift F - Shift A
 
 ## Screenshot Aplikasi
 ![Pertemuan1](screenshot/Pertemuan1.png)
+
+# Tugas 2 Pertemuan 3
+## Vidio demo aplikasi 
+[Vidio Pertemuan 2](screenshot/Pertemuan2.mp4)
+
