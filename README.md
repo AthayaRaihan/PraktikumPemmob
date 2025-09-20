@@ -9,5 +9,5 @@ Shift F - Shift A
 
 # Tugas 2 Pertemuan 3
 ## Vidio demo aplikasi 
-[Vidio Pertemuan 2](screenshot/Pertemuan2.mp4)
+[](screenshot/Pertemuan2.mp4)
 
