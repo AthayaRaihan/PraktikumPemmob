@@ -11,3 +11,7 @@ Shift F - Shift A
 ## Vidio demo aplikasi 
 [Pertemuan2](screenshot/Pertemuan2.gif)
 
+
+# Tugas 3 Peretemuan 4
+## Vidio demo aplikasi
+[Pertemuan2](screenshot/Pertemuan3.gif)
